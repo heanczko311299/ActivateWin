@@ -5,12 +5,12 @@
 
 Login as administrator in CMD.
 
-	1. slmgr /ipk 'version windows'
-	2. slmgr /skms kms.digiboy.ir     'if it doesn't work, they select 3'
-	2. slmgr /skms kms.msguides.com
-	3. slmgr /ato
+	1. slmgr /ipk 'serial of version windows'
+	2. slmgr /skms kms.digiboy.ir     'if it doesn't work, they select 3, if work select 4'
+	3. slmgr /skms kms.msguides.com
+	4. slmgr /ato
 	
-### Serials
+### Versions & Serials
 
 * **Windows 10 Home:** TX9XD-98N7V-6WMQ6-BX7FG-H8Q99
 * **Windows 10 Home N:** 3KHY7-WNT83-DGQKR-F7HPR-844BM
